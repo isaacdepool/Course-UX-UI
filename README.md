@@ -1,6 +1,3 @@
-# Course-UX-UI
-Notes about course UX/UI udemy
-
 # Diseño UX: experiencia de usuario UX/UI + Figma 2023
 This is a repo about course udemy.
 
@@ -48,3 +45,9 @@ Es la cosa mas pequena que se puede construir y a su vez ofrece valor al cliente
 - Usabilidad
 - Fiabilidad
 - Funcionalidad
+
+### Beneficios
+
+- Acelerar el aprendizaje de lo que requiere el cliente / necesita mientras usa una iteracion rapida
+- Minimiza la cantidad de horas desperdiciadas centrandose en una cantidad inima de funciones para el lanzamiento.
+- Ventaja competitiva con otras empresas.
