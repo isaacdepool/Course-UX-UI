@@ -13,4 +13,7 @@ Apreder a recclar
 - Pensamos ne las circunstancias de contenxto y las anotamos
 - Las ordenamos en las culumnas que correspondan
 
-
+### Hipotesis
+- Ver cuales son prejuicios 
+- Investigar
+- Crear hipotesis
