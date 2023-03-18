@@ -144,3 +144,34 @@ Cualitativo:
 - Que piensan las personas
 - Que sienten las personas
 
+### Encuestas
+Ayudan a tener datos cuantitativos.
+- Preguntas cerradas
+
+### Entrevistas 
+Ayudan a tener datos cualitativos 
+- Preguntas abiertas
+- Quienes son los usuarios 
+- Lo que los usuarios quieren
+- Que piensan de algo en especifico
+
+### Como hacer Encuestas 
+
+- Que info queremos recolectar y a quines 
+- Definir nuestro usuario al que se le hara la encuesta 
+- Usar Google Forms
+
+Guion: 
+-  Intro clara y corta del proposito de la encuesta 
+-  Preguntas filtro para verificar si las carateristicas son el usuario al que va dirigido 
+-  Preguntas que daran la info que buscamos (objetivas y puntuales)
+-  Dar cierre y agradecer.
+-  Pedir datos: Nombre, numero de tlfn, email, etc.
+
+Tips:
+- Preguntas importantes primero 
+- Respuestas obligatorias 
+- Agregar "otra" por si hay otra opcion.
+- Simple 
+- Hablar el mismo vocabulario 
+- Si hay conceptos que no se conocen aclararlos.
