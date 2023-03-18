@@ -28,3 +28,8 @@ Apreder a recclar
 - Cuales validar con encuentas 
 - Que queremos saber y mejores preguntas que hacer
 - Hacer al menos 10 preguntas 
+
+### Entrevistas 
+- Objetivo 
+- Preguntas 
+- Info extra
