@@ -121,3 +121,26 @@ Suposiciones a partir de datos qie sirve de base para iniciar la investigacion o
 - Escribirlas en afirmativo. Nunca en modo pregunta o negacion.
 - Relevante
 - Clara y concisa
+
+## Data-Drive Desing
+Consiste en adaptar los metodos de diseno y orientarlos a conseguir un objetivo.
+
+- Analisis cuantitativo. 
+- Sirve apoyar nuestras desciones y hallazgos provisto por los datos.
+- Muestra que el trabajo va por buen camino 
+- Muestra los puntos de dolor del usuario
+- Mejora nuestro diseno agregando objetividad
+
+### Tipo de datos
+
+Cuantitativo: 
+- Que esta pasando
+- Cuando
+- Como
+- A quien
+
+Cualitativo: 
+- Por que 
+- Que piensan las personas
+- Que sienten las personas
+
