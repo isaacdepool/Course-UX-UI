@@ -157,7 +157,7 @@ Ayudan a tener datos cualitativos
 
 ### Como hacer Encuestas 
 
-- Que info queremos recolectar y a quines 
+- Que info queremos recolectar y a quienes 
 - Definir nuestro usuario al que se le hara la encuesta 
 
 Guion: 
@@ -176,3 +176,18 @@ Tips:
 - Simple 
 - Hablar el mismo vocabulario 
 - Si hay conceptos que no se conocen aclararlos.
+
+### Como hacer entrevistas
+- La gente suele investar 
+- La memoria humana es selectiva 
+- Las personas tienen a querer quedar bien 
+
+Objetivo: 
+Es determinar la causa raiz de un efecto o problema repitiendo la pregunta "por que?".
+Cada pregunta forma parte de la siguiente pregunta
+
+Tips: 
+- Conocer al usuario 
+- Definir el objetivo 
+- Preparar las preguntas 
+- Tener herramientas para notas o grabar 
