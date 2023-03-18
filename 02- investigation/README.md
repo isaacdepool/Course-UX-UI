@@ -35,3 +35,58 @@ Consiste en colocar a nuestros competidores en un mapa compuesto por dos ejes. C
 - Generar nuevos mercados y espacios de consumo 
 - Hacer la competencia irrelevante
 - Crear y capturar nueva demanda
+
+# Benchmarking
+Es una tecnica basada en conocer mejores practicas fuera de la empresa.
+
+- Objetivo: Llegar a la mejora continua.
+
+Nota: no es un copy and paste. Es entender las practicas y por que.
+
+## Berchmark interno
+- Se aplica dentro de la empresa 
+- Aprender dentro de la empresa
+
+Ejemplo: Cuando se toman referencias practicas de una determinada area de la empresa que, a diferencia de otras, esta obteniendo buenos resultados.
+
+## Berchmark competitive
+- Se aplica en las empresas competidoras directas
+
+Ejemplo: Cuando se toman como referencias las practicas de la competencia en donde esta nos supera.
+
+## Berchmark functional
+- Se aplica a empresas que podrian ser o no competencia directa.
+
+Ejemplo: Cuando se toma como referencas las estrategias de una empresa en un sector diferente a la nuestra.
+
+## Procesos
+
+### Definicion de objetivos 
+Se refiere a determinar los aspectos que sera sometido el berchmarking, las mejoras que haran tomar de referencia la competencia. 
+- Que queremos mejorar? 
+- En el contenido? En nuestos flujos? 
+- En la forma de trabajar de la empresa?
+
+### Con quien nos comparamos
+Aquellas empresas competidoras indirecta o no, que tengan lo mejor o hagan lo que se quiere mejorar. Ej: Mayores ventas. 
+
+- Quien?
+- Que?
+- Analizar
+- Adaptar mejoras
+
+# Analisis de contexto
+Que se le pasa por la mente  a la persona. El entorno y sus sentimientos.
+- Emocional
+- Expacial
+- Cultural
+- Temporal
+- Socil
+- Politico
+- Y muchos mas.
+
+## Por que usar el contexto?
+- Se necesita saber con exactitud la utilidad que le dara el usuario a lo que se esta creando.
+- Potenciar el producto
+- Solucionar y comprender
+- Experiencia personalizada y centradas en las personas
