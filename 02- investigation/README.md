@@ -90,3 +90,15 @@ Que se le pasa por la mente  a la persona. El entorno y sus sentimientos.
 - Potenciar el producto
 - Solucionar y comprender
 - Experiencia personalizada y centradas en las personas
+
+## Como conocer el contexto
+
+### Contexto del producto
+- Berchmarking
+- Analisis de la competencia
+
+### Contexto del usuario
+- Mapping
+- Hipotesis
+- Entrevista
+- Encuesta
