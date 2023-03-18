@@ -23,3 +23,8 @@ Apreder a recclar
 - Determinar y pensar cuales son verdad y cuales eran prejuicios 
 - Anotar los resultados, reclectar y guardar la info 
 - Recolectar toda la info que sea util acerca de nuestro objetivo o general.
+
+### Encuesta (a partir de hipotesis)
+- Cuales validar con encuentas 
+- Que queremos saber y mejores preguntas que hacer
+- Hacer al menos 10 preguntas 
