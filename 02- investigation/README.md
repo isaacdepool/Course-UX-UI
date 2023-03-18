@@ -159,7 +159,6 @@ Ayudan a tener datos cualitativos
 
 - Que info queremos recolectar y a quines 
 - Definir nuestro usuario al que se le hara la encuesta 
-- Usar Google Forms
 
 Guion: 
 -  Intro clara y corta del proposito de la encuesta 
@@ -169,6 +168,8 @@ Guion:
 -  Pedir datos: Nombre, numero de tlfn, email, etc.
 
 Tips:
+- Crearla primero en lapiz y papel
+- Usar Google Forms
 - Preguntas importantes primero 
 - Respuestas obligatorias 
 - Agregar "otra" por si hay otra opcion.
