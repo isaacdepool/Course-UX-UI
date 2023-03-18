@@ -102,3 +102,22 @@ Que se le pasa por la mente  a la persona. El entorno y sus sentimientos.
 - Hipotesis
 - Entrevista
 - Encuesta
+
+# Empatizar
+Cuanto creemos saber de nuestro usuario? 
+
+## Con quien empatizar? 
+- El usuario
+- El negocio
+
+## Cuanto podemos empatizar
+- Cuando sea general
+- No hacerlo cuando la problematica solo sea para el
+
+## Hipotesis
+Suposiciones a partir de datos qie sirve de base para iniciar la investigacion o argumentacion.
+
+### Tips
+- Escribirlas en afirmativo. Nunca en modo pregunta o negacion.
+- Relevante
+- Clara y concisa
