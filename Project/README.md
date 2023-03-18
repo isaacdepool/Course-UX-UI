@@ -17,3 +17,9 @@ Apreder a recclar
 - Ver cuales son prejuicios 
 - Investigar
 - Crear hipotesis
+
+### Data driven desing
+- Usar google academico y paginas de estadisticas.
+- Determinar y pensar cuales son verdad y cuales eran prejuicios 
+- Anotar los resultados, reclectar y guardar la info 
+- Recolectar toda la info que sea util acerca de nuestro objetivo o general.
