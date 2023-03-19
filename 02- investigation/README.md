@@ -103,7 +103,7 @@ Que se le pasa por la mente  a la persona. El entorno y sus sentimientos.
 - Entrevista
 - Encuesta
 
-# Empatizar
+## Empatizar
 Cuanto creemos saber de nuestro usuario? 
 
 ## Con quien empatizar? 
@@ -114,7 +114,7 @@ Cuanto creemos saber de nuestro usuario?
 - Cuando sea general
 - No hacerlo cuando la problematica solo sea para el
 
-## Hipotesis
+# Hipotesis
 Suposiciones a partir de datos qie sirve de base para iniciar la investigacion o argumentacion.
 
 ### Tips
@@ -191,3 +191,24 @@ Tips:
 - Definir el objetivo 
 - Preparar las preguntas 
 - Tener herramientas para notas o grabar 
+
+## Focus Groups
+Un grupo pequeno de personas, generalmente de 5 a 10 personas que se sientan en una mesa para dar opiniones e ideas.
+
+- Es bueno y rapido para dar a entener los sentimientos de los usuarios y sus opiniones.
+- Es bueno para testear ideas 
+- Herramienta popular para investigacion de mercado y de usuario
+
+### Personas que coforman un focus groups
+- Moderador
+- Facilitador 
+- Investigador
+
+### Perparacion
+
+- Reclutamiento: Seleccionan los participantes dependiendo de su rango (dependen del tema).
+- Creacion del guion: 
+1. Proposito. 
+2. Disenar preguntas. 
+3. Evitar preguntas capciosas
+4. No condicionar las respuestas
