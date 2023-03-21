@@ -1,6 +1,6 @@
 # Project recycling
 
-## 1. Actividad u objetivo 
+## 1. Actividad u objetivo (Investigation)
 Apreder a recclar
 
 ### Objetivos
@@ -33,3 +33,21 @@ Apreder a recclar
 - Objetivo 
 - Preguntas 
 - Info extra
+
+## 2. Definition
+
+### Persona
+- Definimos la persona 
+- Objetivos 
+- Deseos
+- Metas 
+- Necesidades
+- Habitos 
+- Motivaciones 
+- Frustraciones 
+- Expectativas 
+
+### Cuales datos ayudan a describir la persona 
+- Informacion recpilada de escritorio 
+- Datos cualitativos 
+- Datos cuantitativos 
