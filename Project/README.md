@@ -51,3 +51,9 @@ Apreder a recclar
 - Informacion recpilada de escritorio 
 - Datos cualitativos 
 - Datos cuantitativos 
+
+### POV
+- 3 Pov 
+- 1 o 2 usuarios distintos 
+- 3 Necesidades distntas 
+- 3 Hallazgos distintos
