@@ -1,4 +1,4 @@
-# Definir 
+# Definition 
 Saber hacia donde se va apuntar sintetizando el objetivo.
 
 ## Para que definir?
@@ -43,4 +43,32 @@ Analizar los datos cualitativos y buscar un patron y validar los datos cuantitat
 
 ### Construir el usuario persona 
 Contruir la ficha de cada persona
+
+# POV (Point of view)
+Es el marco que define el problema que vamos a abordar construida en base al aprendizaje de la infoamacion y data en el abordaje de empatizar 
+
+Se divide en 3 columnas:
+
+## Usuarios 
+Segmentar el mayor numero de usuarios especificos.
+
+### Ejemplo: 
+- NO: "Un jugador de tenis de colombia" 
+- Si: "Un tenista expermentado"
+
+## Necesidades 
+Tiene que estar conectada con una emocion o que sean profundas 
+
+### Ejemplo 
+- No: "Necesita una plataforma para medir sus entrenaminetos"
+- Si: "Necesita auto evaluarse y aprender sobre como medir sus entrenamientos"
+
+## Hallazgos (por que?)
+Se obtiene de lo observado y lo intuido. Deben ser declaraciones epicas que mantengan la tension.
+
+### Ejemplo 
+- No: "Porque quiere jugar mejor al tenis"
+- Si: "Porque quiere convertirse en un tenista reconocido y modelo a seguir"
+
+Nota: Nunca se requiere una app, sale en bae a las necesidades.
 
