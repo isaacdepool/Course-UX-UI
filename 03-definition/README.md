@@ -72,3 +72,35 @@ Se obtiene de lo observado y lo intuido. Deben ser declaraciones epicas que mant
 
 Nota: Nunca se requiere una app, sale en bae a las necesidades.
 
+# Brief 
+Es una definicion, a veces incompleta y no muy clara. Es una breve explicacion, en este caso se aplica a nuestra problematica. Ayuda a orientar la expllotacion en una direccion.
+
+### Ejemplo 
+- "Queremos mejorar la logistica de nuestra eCommerce"
+
+Es una descripcion corta pero que sirve para encaminar el problema a resolver.
+
+## Brief incompletos y no adecuados 
+- Necesito que mi app sea mas moderna
+- Quiero vender el doble 
+- Hay que cambiar y mostrar algo excelente
+- Tienen una web y quieren hacerla mejor 
+- Quiero una web como la de X
+
+Nota: se debe definir el problema.
+
+## Division del Brief 
+
+### Situacion: Como describiriamos la situacion actua? 
+- "Cientos de autos ingresan a la ciudad debido a la centralizacion de las empresas"
+
+### Motivacion: Que puntos de dolor hacen de esto un problema? 
+- "La gente esta siendo impuntual, pierden tiempo y no usan el transporte publico"
+
+### Mejora: Que se quiere mejorar? (debe de ser informacion cuantificada) 
+- "Queremos que baje en un 30% el ingreso de autos a la ciudad y aumente un 20% el transporte publico 
+
+### Limites: Que nos limita? 
+- "Ncesitamos una solucion y se cuenta con un presupuesto de 2k dollars, tambien se tiene limites legales"
+
+Nota: Existen muchos distintos de brief.
