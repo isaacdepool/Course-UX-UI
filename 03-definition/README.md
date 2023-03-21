@@ -104,3 +104,9 @@ Nota: se debe definir el problema.
 - "Ncesitamos una solucion y se cuenta con un presupuesto de 2k dollars, tambien se tiene limites legales"
 
 Nota: Existen muchos distintos de brief.
+
+# Critical User Journey Map
+CUJs son una combinancion de un objetivo critico y el recorrido de tareas que un usuario debe atravesas para lograr ese objetivo.
+
+### Ejemplo de Google (entrevista real)
+- Como *Usuario*, quiero *Objetivo*, asi que hago *Tarea* (as a user, i want a goal so i task)
