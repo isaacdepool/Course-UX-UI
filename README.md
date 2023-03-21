@@ -9,3 +9,6 @@ Intro to UX/UI Desing.
 
 ## [02-investigation](https://github.com/isaacdepool/Course-UX-UI/tree/main/02-%20investigation)
 First stage of desing thinking
+
+## [03-definition](https://github.com/isaacdepool/Course-UX-UI/tree/main/Definition)
+Second stage of desing thinking
