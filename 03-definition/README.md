@@ -1,1 +1,46 @@
+# Definir 
+Saber hacia donde se va apuntar sintetizando el objetivo.
+
+## Para que definir?
+- Encontrar hacia donde esta nuestra problematica 
+- Sintetizar la informacion de la investigacion 
+- Descubrir nuevas perspectivas 
+- Tomar desiciones y trabajarlas 
+
+# UX Personas 
+Usuario es distinto a personas, nos ayuda a empatizar. Es una metologia de investigacion y motivacion.
+- Competencias 
+- Consumos 
+- Habitos y costumbre 
+- Modelos mentales 
+- Contexto y situacion 
+
+## Que son personas? 
+- Herramienta para tomar desiciones 
+- Es un arquetipo de un humano real (definido por investigacion y analisis)
+
+## Cual es el objetivo de las personas? 
+- Representar un uruario real 
+- Descubrir y describir personas exactas 
+- Empatizar mejor 
+- Poner datos cuantitativos como cualitativos (saber no solo que ocurre si no el por que)
+
+## En que nos ayudan las personas? 
+- Medir si las desiciones sirven 
+- Te recuerda que trabajas para personas reales y empatizas 
+- Entener el contexto y las necesidades
+- Evita que uno proyecte sus propios objetivos, motivaciones, etc 
+- Centrarse en atender situaciones ideales y concretas que no representan a la mayoria de usuarios 
+
+## Como construimos personas?
+Se contempla de 3 pasos
+
+### Investigacion y datos 
+Medir informacion recopilada de escritorio, fuentes diversas, encuestas, entrevistas, mapa de competencia y benchmark.
+
+### Analisis de datos 
+Analizar los datos cualitativos y buscar un patron y validar los datos cuantitativos, (buscar que datos en comun tienen nuestros entrevistados)
+
+### Construir el usuario persona 
+Contruir la ficha de cada persona
 
