@@ -64,3 +64,6 @@ Apreder a recclar
 - Accion 
 - Persona 
 - Objetivo
+
+### Escenario
+- Elegir el escenario mas personalizado y ajustado a su UX persona y Brief
