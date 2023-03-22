@@ -57,3 +57,10 @@ Apreder a recclar
 - 1 o 2 usuarios distintos 
 - 3 Necesidades distntas 
 - 3 Hallazgos distintos
+
+## 3. Ideation
+
+### How might we (Se utiliza Pov, Brief, Persona)
+- Accion 
+- Persona 
+- Objetivo
