@@ -14,7 +14,7 @@ Un metodo que se utiliza para que las personas no se bloqueen y poder resolver e
 - Migth: Indica que podemos poner ideas por ahi que podrian funcionar o no, pero que de todos modos estan bien.
 - We: Sugiere que vamos a hacerlo juntos y construyendo sobre las ideas de los demas.
 
-## Escenarios 
+## Escenarios (Preguntas)
 Para no perder el foco del objetivo y nuestra persona. Tambien para luego idear sobre un marco delimitado.
 
 - Pensar que ofrecerle a nuestro usuarios.
@@ -37,4 +37,12 @@ Para no perder el foco del objetivo y nuestra persona. Tambien para luego idear 
 - Que resultados se esperan 
 - Cuales oportunidades pueden generar? 
 - Se revisan las motivaciones y criterios de brief
+
+## Generar ideas (Posibles respuestas a las preguntas)
+- Hacer preguntas correctas e innovar con fuerte enfoque en la UX persona, el brief y el POV 
+- Ir mas alla de las soluciones obvias y aumentar el potencial de innovacion de su solucion
+- Reunir las perspectivas y fortalezas de los miembros de su equipo
+- Retomar el area de innovacion (oceano azul)
+- No hay ideas buenas o malas.
+- Escribir tantas ideas como sea posible: detalles y contexto
 
