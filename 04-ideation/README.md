@@ -46,3 +46,32 @@ Para no perder el foco del objetivo y nuestra persona. Tambien para luego idear 
 - No hay ideas buenas o malas.
 - Escribir tantas ideas como sea posible: detalles y contexto
 
+## Que se toma en cuenta a la hora de evaluar ideas? 
+- UX persona 
+- FODA 
+
+## FODA 
+Es una herramienta de estrategia, disenada para realizar un analisis interno (Fortalezas y Debilidades) y analisis externo (Oportunidades y Amenazas).
+![SWOT-analysis-for-crowdsourcing-approaches-in-urban-planning-and-emergency-management](https://user-images.githubusercontent.com/41870089/227038248-a6855d49-fdcd-472e-8582-d1a9ba546c7f.png)
+
+### Fortaleza
+- Ventajes de la idea
+- Que valor aporta a las UX persona
+- Todo visto desde la perspectiva interna y el punto de vista de las personas.
+
+### Debilidades
+- En que afecta a las UX personas 
+- Que podria mejorar
+- Todo visto desde la perspectiva interna y el punto de vista de las personas.
+
+### Oportunidades 
+- Que factores externos favorecen la idea 
+- Que podria mejorar 
+- Pensando en las tecnicas, la realidad externa, la competencia, el mercado, politicas gubernamentales, etc.
+
+### Amenazas 
+- Que factores externos amenazan a la idea 
+- Que competidores o ideas de competidores existen 
+- Pensando en las tecnicas, la realidad externa, la competencia, el mercado, politicas gubernamentales, etc.
+
+Nota: No importa la cantidad de debilidades, amenazas, oportunidades o fortalezas, sino el peso de la misma.
