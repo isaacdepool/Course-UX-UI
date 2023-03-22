@@ -11,4 +11,7 @@ Intro to UX/UI Desing.
 First stage of desing thinking
 
 ## [03-definition](https://github.com/isaacdepool/Course-UX-UI/tree/main/03-definition)
+First stage of desing thinking
+
+## [04-ideation](https://github.com/isaacdepool/Course-UX-UI/tree/main/04-ideation)
 Second stage of desing thinking
