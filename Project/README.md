@@ -80,3 +80,8 @@ Apreder a recclar
 ### Definir si se usa una app web o movil
 - Que necesita la UX Persona 
 - Que caracteristicas tiene el dispositivo
+
+### Hacer narracion 
+- Guiarse del escenario
+- Crear oferta de valor
+- Crear bullets 
