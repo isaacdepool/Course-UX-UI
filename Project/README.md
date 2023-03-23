@@ -73,3 +73,6 @@ Apreder a recclar
 - Oportunidad 
 - Debilidades 
 - Amenazas
+
+## Journey Map 
+- Definir una experiencia a mapear (ejemplo: Clasificar los residuos) 
