@@ -76,3 +76,7 @@ Apreder a recclar
 
 ## Journey Map 
 - Definir una experiencia a mapear (ejemplo: Clasificar los residuos) 
+
+### Definir si se usa una app web o movil
+- Que necesita la UX Persona 
+- Que caracteristicas tiene el dispositivo
