@@ -67,3 +67,9 @@ Apreder a recclar
 
 ### Escenario
 - Elegir el escenario mas personalizado y ajustado a su UX persona y Brief
+
+### FODA 
+- Fortaleza 
+- Oportunidad 
+- Debilidades 
+- Amenazas
