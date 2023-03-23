@@ -73,3 +73,16 @@ Son una minicomputadoras y existen mas que tvs y pcs juntas.
 - Es mas facil dar de alta a una app en Play Store 
 - Domina el mercado 
 - Costo 25$ de por vida
+
+# Narracion (oferta de valor)
+Determina el exito o fracaso de nuestra propuesta sin importar la calidad de la misma.
+
+- Aclarar lo que hace 
+- Determina a quieres van dirigidos 
+- Veneficios
+
+### Bullets 
+- Dan ofertas de valor divididas 
+- Maximo 3 
+- Manera sencilla y clara que ofrece
+- Usar palabras correctas
