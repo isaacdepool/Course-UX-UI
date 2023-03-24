@@ -19,5 +19,5 @@ Second stage of desing thinking
 ## [05-Apps webs / Mobile ](https://github.com/isaacdepool/Course-UX-UI/tree/main/05-apps)
 Technologies
 
-## [05-prorotyped]([https://github.com/isaacdepool/Course-UX-UI/tree/main/05-apps](https://github.com/isaacdepool/Course-UX-UI/tree/main/06-Prototipado))
+## [05-prorotyped](https://github.com/isaacdepool/Course-UX-UI/tree/main/06-Prototipado)
 Third stage of desing thinking 
