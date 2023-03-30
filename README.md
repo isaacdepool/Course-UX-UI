@@ -19,5 +19,8 @@ Second stage of desing thinking
 ## [05-Apps webs / Mobile ](https://github.com/isaacdepool/Course-UX-UI/tree/main/05-apps)
 Technologies
 
-## [05-prorotyped](https://github.com/isaacdepool/Course-UX-UI/tree/main/06-Prototipado)
+## [06-prorotyped](https://github.com/isaacdepool/Course-UX-UI/tree/main/06-Prototipado)
+Third stage of desing thinking 
+
+## [07-arquitectura de la informacion](https://github.com/isaacdepool/Course-UX-UI/tree/main/07-arquitectura%20de%20la%20informacion)
 Third stage of desing thinking 
