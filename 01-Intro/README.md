@@ -23,7 +23,7 @@ Metodologia agil de trabajo para la resolucion de problemas complejos. Utiliza t
 
 - Entender (Empatizar-definicion): entender el problema y el contexto.
 - Explorar (Idear):  Ver que se puede hacer con todo lo que tenemos.
-- Materialiar (Prototipar-Evaluar) : Generar.
+- Materializar (Prototipar-Evaluar) : Generar.
 
 Nota: Se define como un proceso iterativo, cuyo objetivo es ir mejorando por ciclos.
 
