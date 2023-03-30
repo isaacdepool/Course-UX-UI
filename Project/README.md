@@ -85,3 +85,11 @@ Apreder a recclar
 - Guiarse del escenario
 - Crear oferta de valor
 - Crear bullets 
+
+## 4. Materializacion
+
+### Generar un guion escenario (comunicacion usuario- maquina)
+- Propuesta de valor 
+- Objetivo 
+- Escenario
+
