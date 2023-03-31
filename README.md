@@ -24,3 +24,6 @@ Third stage of desing thinking
 
 ## [07-arquitectura de la informacion](https://github.com/isaacdepool/Course-UX-UI/tree/main/07-arquitectura%20de%20la%20informacion)
 Third stage of desing thinking 
+
+## [08-design patterns](https://github.com/isaacdepool/Course-UX-UI/tree/main/08-design%20patterns)
+Third stage of desing thinking 
