@@ -60,3 +60,18 @@ La interfaz es el espacio donde se articula la interaccion entre el cuerpo human
 - Rapidez 
 - Solucion efectiva
 
+## User flow
+Es el trayecto o proceso que realizan diferentes usuarios para realizar todas las tareas posibles que permita el sistema.
+
+Al haer muchos distintos usuarios debemos hacer un user flow que impacte a la mayor cantidad de usuarios posibles.
+
+### User flow elements
+
+![user-flow-Pic7](https://user-images.githubusercontent.com/41870089/228989773-46a13b3e-f8ec-41c4-bc76-db29ff286709.jpg)
+
+### Como se hace? 
+- Revisamos dialogo persona-perosna
+- Pensamos y adaptamos pero persona-maquina
+
+## Analizando un user flow
+- Analizar procesos por tomas de desiciones
