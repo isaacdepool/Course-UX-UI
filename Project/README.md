@@ -98,3 +98,6 @@ Apreder a recclar
 - Identificar cuales son los procesos, desiciones y entradas de usuario 
 - Comprender y hacer de la mejor manera el dialogo entre el usuario y el producto para que sea lo mas facil posible
 
+### Herramientas 
+- draw.io 
+- whimisical.co
